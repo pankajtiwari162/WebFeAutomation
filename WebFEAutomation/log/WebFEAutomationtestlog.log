@@ -1,0 +1,43 @@
+2020-10-23 22:41:31,228 - com.webfeautomation.Utils.Logs -INFO - Chrome browser started
+2020-10-23 22:41:33,954 - com.webfeautomation.Utils.Logs -INFO - Click performed on Laptops
+2020-10-23 22:41:34,440 - com.webfeautomation.Utils.Logs -INFO - Click performed on Sony Vaio i5 laptop
+2020-10-23 22:41:34,935 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Add To Cart button
+2020-10-23 22:41:35,847 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Home tab
+2020-10-23 22:41:36,221 - com.webfeautomation.Utils.Logs -INFO - Click performed on Laptops
+2020-10-23 22:41:36,940 - com.webfeautomation.Utils.Logs -INFO - Click performed on Dell i7 8gb laptop
+2020-10-23 22:41:37,206 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Add To Cart button
+2020-10-23 22:41:38,289 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Cart tab
+2020-10-23 22:41:39,309 - com.webfeautomation.Utils.Logs -INFO - Dell i7 8gb removed from product list
+2020-10-23 22:41:42,592 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Place Order button
+2020-10-23 22:41:43,044 - com.webfeautomation.Utils.Logs -INFO - PankajTiwari entered in name input box
+2020-10-23 22:41:43,278 - com.webfeautomation.Utils.Logs -INFO - India entered in country input box
+2020-10-23 22:41:43,464 - com.webfeautomation.Utils.Logs -INFO - Noida entered in city input box
+2020-10-23 22:41:43,728 - com.webfeautomation.Utils.Logs -INFO - 4444333322221111 entered in card number input box
+2020-10-23 22:41:43,935 - com.webfeautomation.Utils.Logs -INFO - 12 entered in month input box
+2020-10-23 22:41:44,193 - com.webfeautomation.Utils.Logs -INFO - 2024 entered in year input box
+2020-10-23 22:41:44,420 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Purchase button
+2020-10-23 22:42:52,133 - com.webfeautomation.Utils.Logs -INFO - Chrome browser started
+2020-10-23 22:42:54,750 - com.webfeautomation.Utils.Logs -INFO - Click performed on Laptops
+2020-10-23 22:42:55,224 - com.webfeautomation.Utils.Logs -INFO - Click performed on Sony Vaio i5 laptop
+2020-10-23 22:42:55,769 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Add To Cart button
+2020-10-23 22:42:56,783 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Home tab
+2020-10-23 22:42:57,153 - com.webfeautomation.Utils.Logs -INFO - Click performed on Laptops
+2020-10-23 22:42:57,934 - com.webfeautomation.Utils.Logs -INFO - Click performed on Dell i7 8gb laptop
+2020-10-23 22:42:58,307 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Add To Cart button
+2020-10-23 22:42:59,409 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Cart tab
+2020-10-23 22:43:00,329 - com.webfeautomation.Utils.Logs -INFO - Dell i7 8gb removed from product list
+2020-10-23 22:43:03,560 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Place Order button
+2020-10-23 22:43:04,331 - com.webfeautomation.Utils.Logs -INFO - PankajTiwari entered in name input box
+2020-10-23 22:43:04,729 - com.webfeautomation.Utils.Logs -INFO - India entered in country input box
+2020-10-23 22:43:05,033 - com.webfeautomation.Utils.Logs -INFO - Noida entered in city input box
+2020-10-23 22:43:05,426 - com.webfeautomation.Utils.Logs -INFO - 4444333322221111 entered in card number input box
+2020-10-23 22:43:05,675 - com.webfeautomation.Utils.Logs -INFO - 12 entered in month input box
+2020-10-23 22:43:05,953 - com.webfeautomation.Utils.Logs -INFO - 2024 entered in year input box
+2020-10-23 22:43:06,225 - com.webfeautomation.Utils.Logs -INFO - Click Performed on Purchase button
+2020-10-23 22:43:06,395 - com.webfeautomation.Utils.Logs -INFO - ******Logs for purchase id and amount along with other details*******
+2020-10-23 22:43:06,473 - com.webfeautomation.Utils.Logs -INFO - Id: 5307894
+Amount: 790 USD
+Card Number: 4444333322221111
+Name: PankajTiwari
+Date: 23/9/2020
+2020-10-23 22:43:07,476 - com.webfeautomation.Utils.Logs -INFO - Click Performed on OK button
